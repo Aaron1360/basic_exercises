@@ -1,0 +1,28 @@
+1. **Calculator Program**: Create a command-line calculator that can perform basic arithmetic operations.
+
+2. **Hangman Game**: Implement a text-based Hangman game where the user can guess words.
+
+3. **File Manipulation**: Write a program to read a text file, count the occurrences of each word, and create a summary report.
+
+4. **Guess the Number**: Develop a number guessing game where the computer generates a random number, and the user needs to guess it.
+
+5. **Tic-Tac-Toe**: Build a two-player Tic-Tac-Toe game with a text-based interface.
+
+6. **String Manipulation**: Write a program that reverses a string and checks if it's a palindrome (reads the same forwards and backward).
+
+7. **Fibonacci Sequence**: Create a function to generate the Fibonacci sequence up to a specified number.
+
+8. **Factorial Calculator**: Write a function to calculate the factorial of a given number.
+
+9. **Prime Number Checker**: Implement a function to check if a number is prime.
+
+10. **Basic Web Scraper**: Develop a simple web scraper to extract data from a website and store it in a file.
+
+11. **Palindrome Detector**: Build a program that checks if a given sentence is a palindrome, considering spaces and punctuation.
+
+12. **Anagram Finder**: Create a program that checks if two words are anagrams of each other.
+
+13. **Data Validation**: Write a script to validate user input, ensuring it meets certain criteria, like email address format.
+
+14. **Contact Book**: Develop a simple contact book program where users can add, search, and edit contacts.
+
